@@ -6,3 +6,4 @@ Spring Boot 2.0 整合Mybatis和Redis Cluster使用缓存。
 
 # 2、springboot-activemq
 Spring Boot 2.0 整合JMS(ActiveMQ的实现)Demo。
+https://www.jianshu.com/p/cb4ac40b5b50 Spring Cloud微服务实战
