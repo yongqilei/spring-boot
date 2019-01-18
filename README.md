@@ -23,6 +23,8 @@ Cinema Movie Tickets App 设计：https://www.uisdc.com/design-elements-of-cinem
 
 《Docker技术入门与实战 第3版2018版》高清中文 PDF下载 下载地址：https://pan.baidu.com/s/1xmiQilAhCmJGm_y1LawXDQ
 
-猫眼电影选座模仿：https://github.com/z624821876/YSSeatsPicker
+猫眼电影选座模仿(包含落单座位限制)：https://github.com/z624821876/YSSeatsPicker
+
+影院选座算法-限制单独座位：https://www.cnblogs.com/v-jing/p/4180129.html
 
 
