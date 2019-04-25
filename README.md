@@ -9,8 +9,11 @@ Spring Boot 2.0 整合JMS(ActiveMQ的实现)Demo。
 https://www.jianshu.com/p/cb4ac40b5b50 Spring Cloud微服务实战
 
 基于Spring Cloud Config的服务配置中心:https://sjyuan.cc/service-config-server/
+
 Spring Cloud Config 配置中心:https://juejin.im/post/5adeea37f265da0b8a674337
+
 Spring cloud微服务实战——基于OAUTH2.0统一认证授权的微服务基础架构:https://blog.csdn.net/w1054993544/article/details/78932614 (先看这个)
+
 Spring cloud微服务实战（五）——基于OAUTH2.0统一认证授权:https://blog.csdn.net/w1054993544/article/details/86606732
 
 
